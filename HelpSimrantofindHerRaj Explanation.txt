@@ -1,10 +1,10 @@
-In question 1 (Help Simran to find her Raj) you just have to use the logic to find the maximum number.
+In question 1 (Help Simran to find her Raj) you have to use the logic just like to find the maximum number.
 Steps-
 1. Number of students is entered by the user.
 2. Initialize the max variable with 0 and uniqueId variable with  -1 .
-3. As you have to find the maximum total marks obtained by N students you have to make a loop from 1 to 	     N.
+3. As you have to find the maximum total marks obtained by N students you have to make a loop from 1 to N.
 4. Take marks as input  from the user .
 5. Total the marks obtained by the student lets say 'i'.
-6. Now you have the total marks of student 'i' and your are now just left to compare it with the maximum                marks .As question says student with uniqueId greater will be the winner thats why you have to  put      Greater-than-Equal-to (>=) condition to find the student with greatest UniqueId and maximum  Marks. 
-7. If total marks obtained by student 'i' is greater than maximum marks then just set the value of maximum            marks equal to the total marks. And also set uniqueId with the current id of student i.e. 'i'.
-8   Finally when loop ends Just print uniqueId .
+6. Now you have the total marks of student 'i' and your are now just left to compare it with the maximum marks. As question says       student with uniqueId greater will be the winner thats why you have to  put Greater-than-Equal-to (>=) condition to find the    student with greatest UniqueId and maximum  Marks. 
+7. If total marks obtained by student 'i' is greater than maximum marks then just set the value of maximum marks equal to the total marks. And also set uniqueId with the current id of student i.e. 'i'.
+8. Finally when loop ends Just print uniqueId .
