@@ -19,11 +19,12 @@ Find the Leaderboard of the challenge [here](https://www.hackerrank.com/contests
 
 
 ### Problem Setters
-[Samad Khan](hackerrank.com/codee_it_99)
-[Himanshu Jain](hackerrank.com/its_strange)
-[BufferedReader](hackerrank.com/BufferedReader)
-[Pranjal Saxena](hackerrank.com/pranjalsaxena5)
-[Dhruv Dhingra](hackerrank.com/dhruv_dhingra11)
+
++ [Samad Khan](hackerrank.com/codee_it_99)
++ [Himanshu Jain](hackerrank.com/its_strange)
++ [BufferedReader](hackerrank.com/BufferedReader)
++ [Pranjal Saxena](hackerrank.com/pranjalsaxena5)
++ [Dhruv Dhingra](hackerrank.com/dhruv_dhingra11)
 
 
 **You can download the test cases for each problem statement using available options in challenges section**
