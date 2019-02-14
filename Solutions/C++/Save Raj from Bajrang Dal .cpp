@@ -10,12 +10,11 @@ int main()
         cin>>a[i];
     }
     sort(a,a+n);
+    for(i=0;i<n/2;i++)
     {
-        for(i=0;i<n/2;i++)
-        {
-            int s=a[i]+a[n-1-i];
-            sum+=(s*s);
-        }
+        int s=a[i]+a[n-1-i];
+        sum+=(s*s);
+        
     }
     cout<<sum;
 }
