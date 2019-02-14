@@ -20,7 +20,7 @@ Find the Leaderboard of the challenge [here](https://www.hackerrank.com/contests
 
 ### Problem Setters
 
-+ [Samad Khan](hackerrank.com/codee_it_99)
++ [Samad Khan](https://www.hackerrank.com/codee_it_99)
 + [Himanshu Jain](hackerrank.com/its_strange)
 + [BufferedReader](hackerrank.com/BufferedReader)
 + [Pranjal Saxena](hackerrank.com/pranjalsaxena5)
