@@ -23,7 +23,7 @@ Find the Leaderboard of the challenge [here](https://www.hackerrank.com/contests
 + [Samad Khan](https://www.hackerrank.com/codee_it_99)
 + [Himanshu Jain](hackerrank.com/its_strange)
 + [BufferedReader](hackerrank.com/BufferedReader)
-+ [Pranjal Saxena](hackerrank.com/pranjalsaxena5)
++ [Pranjal Saxena](https://www.hackerrank.com/pranjalsaxena5)
 + [Dhruv Dhingra](hackerrank.com/dhruv_dhingra11)
 
 
